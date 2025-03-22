@@ -7,3 +7,6 @@
 .login {
     font-family: "Pacifico", cursive;
 }
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
