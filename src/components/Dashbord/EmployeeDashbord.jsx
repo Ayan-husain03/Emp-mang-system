@@ -5,7 +5,7 @@ import EmpTaskList from '../TaskList/EmpTaskList'
 
 const EmployeeDashbord = () => {
   return (
-    <div className='bg-slate-800 min-h-screen text-white'>
+    <div className='bg-slate-800 min-h-screen text-white '>
       <Header />
       <AllTaskList />
       <EmpTaskList />
